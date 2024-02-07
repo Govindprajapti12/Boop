@@ -1,2 +1,13 @@
 1. create github account
 2. instll git tool
+	test using git command on cmd
+
+3. create local repo/directory 
+	open cmd in the same 
+
+git init
+git status
+git add -A
+git commit -m "first commit"
+git config --global user.email "prajapatigovind2711@gmail.com"
+git config --global user.name "Govindprajapti12"
